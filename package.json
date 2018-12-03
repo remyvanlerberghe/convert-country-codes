@@ -1,0 +1,32 @@
+{
+  "name": "convert-country-codes",
+  "version": "1.0.0",
+  "description": "Convert ISO 3166-1 Alpha-2, ISO 3166-1 Alpha-3 and IOC country codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "country",
+    "code",
+    "iso",
+    "alpha-3",
+    "alpha",
+    "3",
+    "alpha-2",
+    "alpha",
+    "2",
+    "3166",
+    "ioc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remyvanlerberghe/country-codes.git"
+  },
+  "author": "Rémy Vanlerberghe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/remyvanlerberghe/country-codes/issues"
+  },
+  "homepage": "https://github.com/remyvanlerberghe/country-codes#readme"
+}
